@@ -1,6 +1,9 @@
 ## We are 冰多多
 
+看板：https://github.com/bingduouduos/test/projects/1
+
 You can use the [editor on GitHub](https://github.com/bingduouduos/test/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+
 在gh-pages 编辑README来写主页
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
