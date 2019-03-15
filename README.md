@@ -1,5 +1,7 @@
 ## We are 冰多多
 
+参考：https://blog.csdn.net/Ulricalin/article/details/79948569
+
 看板：https://github.com/bingduouduos/test/projects/1
 
 You can use the [editor on GitHub](https://github.com/bingduouduos/test/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
